@@ -1,0 +1,26 @@
+{
+  "name": "tw-exchange-report",
+  "version": "1.0.0",
+  "description": "Taiwan exchange report",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoyangtsai/tw-exchange-report.git"
+  },
+  "keywords": [
+    "nodejs",
+    "stock"
+  ],
+  "author": "hoyangtsai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoyangtsai/tw-exchange-report/issues"
+  },
+  "homepage": "https://github.com/hoyangtsai/tw-exchange-report#readme",
+  "dependencies": {
+    "xlsx": "^0.15.1"
+  }
+}
