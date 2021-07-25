@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/hoyangtsai/tw-exchange-report#readme",
   "dependencies": {
-    "xlsx": "^0.15.1"
+    "xlsx": "^0.17.0"
   }
 }
